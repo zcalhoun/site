@@ -11,3 +11,7 @@ h2 {
 p {
   font-family: 'Inter UI', sans-serif;
 }
+
+.container {
+  text-align: center;
+}
